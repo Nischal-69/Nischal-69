@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nischal AchARYA</h1>
 <h3 align="center">A passionate frontend & plugin developer, Graphic designer & Video Editor from Butwal, Nepal.</h3>
 
-- 👨‍💻 All of my projects are available at [https://nischal-ach.netlify.app/](https://nischal-ach.netlify.app/)
-
 - 📫 How to reach me **nischalach.edit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
