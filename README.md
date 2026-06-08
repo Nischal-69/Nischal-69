@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nischal AchARYA</h1>
-<h3 align="center">A passionate frontend developer, plugin developer, Graphic designer & Video Editor from Butwal, Nepal.</h3>
+<h3 align="center">A passionate frontend & plugin developer, Graphic designer & Video Editor from Butwal, Nepal.</h3>
 
 - 👨‍💻 All of my projects are available at [https://nischal-ach.netlify.app/](https://nischal-ach.netlify.app/)
 
