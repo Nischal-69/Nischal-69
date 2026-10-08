@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hello I'm Nischal Acharya 
+
 🔭 I’m currently working on<br>Chrome extensions, WordPress plugins, and web apps.<br><br>👯 I’m looking to collaborate on<br>Extensions, plugins, web apps, and creative projects.<br><br>🤝 I’m looking for help with<br>Building better and more user-friendly products.<br><br>🌱 I’m currently learning<br>Web and plugin development.<br><br>💬 Ask me about<br>Chrome extensions, WordPress plugins, web apps, graphic design, and video editing.<br><br>⚡ Fun fact<br>I’m a graphic designer & video editor learning to build my own digital products. 🚀
 
 
